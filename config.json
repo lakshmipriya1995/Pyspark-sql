@@ -1,0 +1,6 @@
+{
+  "employeeDetails":"/Users/Roshan_Rachepalli/Documents/MyFirstPySparkProject/InputFiles/employee.csv",
+  "manager":"/Users/Roshan_Rachepalli/Documents/MyFirstPySparkProject/InputFiles/manager.csv",
+  "employee_salary":"/Users/Roshan_Rachepalli/Documents/MyFirstPySparkProject/InputFiles/employee_salary.csv",
+  "Output_path": "/Users/Roshan_Rachepalli/Documents/MyFirstPySparkProject/outputReport/"
+}
